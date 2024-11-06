@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://drive.google.com/file/d/1FfNJgWnbg_AiyEPxU_vvT6WLXZRWaLfU/view?usp=drive_link'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
